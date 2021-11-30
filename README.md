@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="center" alt="jenks" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
 </div>
   
-### Tecnologias que também tenho conhecimento
+#### Tecnologias que também tenho conhecimento
 <div style="display: inline_block"><br>
   <img align="center" alt="objc" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg">
   <img align="center" alt="arduino" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
