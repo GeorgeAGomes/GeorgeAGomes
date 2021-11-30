@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
   <img align="center" alt="swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="objc" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg">
   <img align="center" alt="arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
