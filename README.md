@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
   
 #### Tecnologias que também tenho conhecimento
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="objc" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg">
   <img align="center" alt="arduino" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
