@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ## Tecnologias
 ### Dia a Dia
 <div style="display: inline_block">
-  <img align="center" alt="swift" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="center" alt="git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="jenks" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="swift" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img align="center" alt="git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="jenks" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
 </div>
   
 #### que também tenho conhecimento
