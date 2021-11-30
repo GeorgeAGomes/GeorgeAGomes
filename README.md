@@ -19,8 +19,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnTonhoLAB&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnTonhoLAB&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
-
-# Tecnologias do dia a dia
+Tecnologias do dia a dia 
 <div style="display: inline_block"><br> 
   <img align="center" alt="swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
