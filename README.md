@@ -1,19 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AnTonhoLAB/AnTonhoLAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   <a href="https://github.com/AnTonhoLAB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnTonhoLAB&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -21,7 +7,7 @@ Here are some ideas to get you started:
 </div>
   
 ## Tecnologias
-### Dia a Dia     #### Teste
+### Dia a Dia
 <div style="display: inline_block">
   <img align="center" alt="swift" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
