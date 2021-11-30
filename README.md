@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img align="center" alt="java" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
-  ##
+
  
 <div> 
   <a href="https://www.youtube.com/channel/UC9LsqbQH0RINyf1WhzZxPnA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
