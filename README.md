@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnTonhoLAB&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias do dia a dia
 
 <div style="display: inline_block"><br> 
   <img align="center" alt="swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img align="center" alt="jenks" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
 </div>
   
-  ##
+### Tecnologias que também tenho conhecimento
   
 <div style="display: inline_block"><br>
   <img align="center" alt="objc" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg">
