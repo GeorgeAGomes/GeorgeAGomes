@@ -1,4 +1,4 @@
-### Hi there 👋
+### Boas-vindas 👋
 
 <div align="center">
   <a href="https://github.com/AnTonhoLAB">
@@ -23,7 +23,8 @@
 #### Minhas redes
 <div> 
   <a href="https://www.linkedin.com/in/georgegomees/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.twitch.tv/antonholab" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+   <a href="https://medium.com/@AnTonhoLAB" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.twitch.tv/antonholab" target="_blank"><img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=Medium&logoColor=black" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UC9LsqbQH0RINyf1WhzZxPnA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/antonholab/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/c658ZJGjE2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
