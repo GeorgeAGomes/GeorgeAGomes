@@ -8,16 +8,16 @@
   
 ## Tecnologias
 <div style="display: inline_block">
-  <img align="center" alt="swift" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="center" alt="git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="jenks" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" height="30" width="30">
-  <img align="center" alt="objc" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg">
-  <img align="center" alt="arduino" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="node" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="figma" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="swift" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img align="center" alt="git" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="jenks" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+  <img > <img >
+  <img align="center" alt="objc" height="26" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" >
+  <img align="center" alt="arduino" height="26" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+  <img align="center" alt="js" height="26" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="node" height="26" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="java" height="26" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="figma" height="26" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
   
 ###
