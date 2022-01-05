@@ -33,5 +33,6 @@
 </div>
 
 <p align="center">
+  <img src="https://badges.pufler.dev/years/AnTonhoLAB" alt="Years Badge" />
   <img src="https://badges.pufler.dev/visits/AnTonhoLAB/AnTonhoLAB" alt="AnTonhoLAB badge" />
 </p>
