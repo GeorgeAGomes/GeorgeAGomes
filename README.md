@@ -36,4 +36,5 @@
   <img src="https://badges.pufler.dev/years/AnTonhoLAB" alt="Years Badge" />
   <img src="https://badges.pufler.dev/visits/AnTonhoLAB/AnTonhoLAB" alt="Visits counter badge" />
   <img src="https://badges.pufler.dev/repos/AnTonhoLAB" alt="Repos counter badge" />
+  <img src="https://badges.pufler.dev/commits/monthly/AnTonhoLAB">
 </p>
