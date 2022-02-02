@@ -9,15 +9,20 @@
 ## Tecnologias
 <div style="display: inline_block">
   <img align="center" alt="swift" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img align="center" alt="RxSwift" height="45" width="50" src="https://github.com/ReactiveX/RxSwift/blob/main/assets/RxSwift_Logo.png">
   <img align="center" alt="git" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="jenks" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img > <img >
+  <img align="center" alt="fastL" height="40" width="40" src="https://seeklogo.com/images/F/fastlane-logo-6CA0B0B428-seeklogo.com.png">
+  
+  <img align="center"  height="10" width="10" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
+  <img align="center" alt="fireb" height="26" width="26" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" >
   <img align="center" alt="objc" height="26" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" >
   <img align="center" alt="arduino" height="26" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="js" height="26" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="node" height="26" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="java" height="26" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="figma" height="26" width="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="sketch" height="26" width="26" src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg">
 </div>
   
 ###
