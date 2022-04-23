@@ -1,4 +1,4 @@
-### Olá, seja bem vinda(o) 👋
+### Olá, seja bem vinda(o) 👋🏼
 
 <div align="center">
   <a href="https://github.com/AnTonhoLAB">
