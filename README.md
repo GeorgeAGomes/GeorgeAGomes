@@ -36,10 +36,3 @@
   <a href="https://www.instagram.com/antonholab/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/AnTonhoLAB" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 </div>
-
-<p align="center">
-  <img src="https://badges.pufler.dev/years/AnTonhoLAB" alt="Years Badge" />
-  <img src="https://badges.pufler.dev/visits/AnTonhoLAB/AnTonhoLAB" alt="Visits counter badge" />
-  <img src="https://badges.pufler.dev/repos/AnTonhoLAB" alt="Repos counter badge" />
-  <img src="https://badges.pufler.dev/commits/monthly/AnTonhoLAB">
-</p>
