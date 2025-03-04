@@ -1,9 +1,9 @@
 ### Olá, seja bem vinda(o) 👋🏼
 
 <div align="center">
-  <a href="https://github.com/AnTonhoLAB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnTonhoLAB&show_icons=true&theme=cobalt&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnTonhoLAB&layout=compact&langs_count=7&theme=cobalt"/>
+  <a href="https://github.com/GeorgeAGomes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorgeAGomes&show_icons=true&theme=cobalt&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeAGomes&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
 ## Tecnologias
@@ -29,5 +29,5 @@
 #### Minhas redes
 <div align="center" > 
   <a href="https://www.linkedin.com/in/georgegomees/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/antonholab/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ target="_blank"></a>
 </div>
