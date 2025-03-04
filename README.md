@@ -11,7 +11,8 @@
   <img align="center" alt="swift" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="RxSwift" height="45" width="50" src="https://github.com/ReactiveX/RxSwift/blob/main/assets/RxSwift_Logo.png">
   <img align="center" alt="git" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="fastLane" height="40" width="40" src="https://seeklogo.com/images/F/fastlane-logo-6CA0B0B428-seeklogo.com.png">
+  <img align="center" alt="fastLane" height="40" width="40" src="https://images.seeklogo.com/logo-png/32/1/fastlane-logo-png_seeklogo-323873.png">
+                                                                 
   <img align="center" alt="jenks" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
   
   
